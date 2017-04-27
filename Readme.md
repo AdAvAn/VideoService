@@ -1,4 +1,5 @@
-# Video viewer application for iPhone
+![Featured](https://github.com/AdAvAn/VideoService/blob/master/Screens/screan.png?raw=true)
+
 
 ### About the project:
 The project's objective - to implement a mobile application for viewing movies which are charged Lyudmila video in one of the available online video services.
