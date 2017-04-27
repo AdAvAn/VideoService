@@ -1,0 +1,6 @@
+framework module Pods_VideoService {
+  umbrella header "Pods-VideoService-umbrella.h"
+
+  export *
+  module * { export * }
+}
